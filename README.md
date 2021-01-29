@@ -1,2 +1,2 @@
 # App Orcamento Pessoal
- Javascript
+ App em Javascript usando Local Storage
